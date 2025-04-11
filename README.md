@@ -4,24 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Education Website - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #0a58ca;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    strong {
-      font-weight: bold;
-    }
-  </style>
+
 </head>
 <body>
 
